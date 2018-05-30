@@ -1,1 +1,1 @@
-# patio-lights-project
+# patio-lights-project-pi
